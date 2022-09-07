@@ -1,0 +1,4 @@
+gofmt --w block/blockchain.go
+go run main.go
+go mod init blockchain
+go mod tiny
